@@ -3,7 +3,7 @@
 
 ### 1) Enumerações
 
-1.1 São variáveis que são criadas dentro de um escopo de projeto para
+1.1 São variáveis que são criadas dentro de uma classe de um projeto para
 serem usadas como palavras reservadas quando necessário.
 
 
